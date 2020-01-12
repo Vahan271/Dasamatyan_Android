@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 a3fbb14ebefabfac0ac6ec8efbe004cce6e41188 Vahan <vahan271@gmail.com> 1548696668 +0400	commit (initial): Initial commit
+a3fbb14ebefabfac0ac6ec8efbe004cce6e41188 8b43697bfac491353de57d698e17b6b994b5e580 Vahan <vahan271@gmail.com> 1548697062 +0400	commit: Code formatted
+8b43697bfac491353de57d698e17b6b994b5e580 f8f3b5ca9934dc07bb09662497e34870905108dc Vahan <vahan271@gmail.com> 1548869901 +0400	commit: Code formatted
+f8f3b5ca9934dc07bb09662497e34870905108dc b5d1ddfcd0d487e31bdbd20df6f865ea8faa1337 Vahan <vahan271@gmail.com> 1549014923 +0400	commit: Code formatted
+b5d1ddfcd0d487e31bdbd20df6f865ea8faa1337 dc0e24869dbcb3b579f9aabfc6b1d545b70b3c7b Vahan <vahan271@gmail.com> 1549019255 +0400	commit: Code formatted
+dc0e24869dbcb3b579f9aabfc6b1d545b70b3c7b 139e5549acb5b19cac25a6f7656ae17823b75449 Vahan <vahan271@gmail.com> 1549953986 +0400	commit: Code formatted
+139e5549acb5b19cac25a6f7656ae17823b75449 356ab54fbb2f5c6a01fba51986f2bf3fdbbb0373 Vahan <vahan271@gmail.com> 1549954014 +0400	commit: Code formatted
+356ab54fbb2f5c6a01fba51986f2bf3fdbbb0373 94c76f585046eaff3f736596e0be90f2f700b230 Vahan <vahan271@gmail.com> 1549954042 +0400	commit: Code formatted
+94c76f585046eaff3f736596e0be90f2f700b230 e5ee2b737d595eecd9935eb287f814a5d6ff84b9 Vahan <vahan271@gmail.com> 1551128865 +0400	commit: Code formatted
+e5ee2b737d595eecd9935eb287f814a5d6ff84b9 b4f0541e508b9c145f244d38122024235b3485fe Vahan <vahan271@gmail.com> 1555589084 +0400	commit: Code formatted
+b4f0541e508b9c145f244d38122024235b3485fe b655d3549a8d11a098e5becf139858ee0f46c935 Vahan <vahan271@gmail.com> 1555590283 +0400	commit: Code formatted
+b655d3549a8d11a098e5becf139858ee0f46c935 ef7fe344692442517e4b42ed59d88de365fa632a Vahan <vahan271@gmail.com> 1555607209 +0400	commit: Code formatted
+ef7fe344692442517e4b42ed59d88de365fa632a 784a2bd9276662e4fef7213b210c3cb43e7518f7 Vahan <vahan271@gmail.com> 1555607237 +0400	commit: Code formatted
+784a2bd9276662e4fef7213b210c3cb43e7518f7 263da32ade86067b05437f9bd4d02c8897b797c3 Vahan <vahan271@gmail.com> 1556043248 +0400	commit: Code formatted
+263da32ade86067b05437f9bd4d02c8897b797c3 1d4b36ec1d1c7cb076829cc6f92e702be42b8cb7 Vahan <vahan271@gmail.com> 1556043290 +0400	commit: Code cleanup
+1d4b36ec1d1c7cb076829cc6f92e702be42b8cb7 695e9e2a8321ae6d6c1d9cc65a40268606f18fd7 Vahan <vahan271@gmail.com> 1556122370 +0400	merge origin/master: Fast-forward
+695e9e2a8321ae6d6c1d9cc65a40268606f18fd7 8f29b0e4e2b84555b0c61f93be71cfa4ce96d05a Vahan <vahan271@gmail.com> 1556133124 +0400	commit: Code formatted
+8f29b0e4e2b84555b0c61f93be71cfa4ce96d05a 6e37d90cb77682dfa981173f9d921a05611e8686 Vahan <vahan271@gmail.com> 1556140713 +0400	pull --progress --no-stat -v --progress origin master: Fast-forward
+6e37d90cb77682dfa981173f9d921a05611e8686 fdbd39d5133c4e91c75209c8fe87b741e52940f8 Vahan <vahan271@gmail.com> 1556141583 +0400	commit: Code formatted
+fdbd39d5133c4e91c75209c8fe87b741e52940f8 0e29f071fe9170be57bf3f2d09e984122a0ada14 Vahan <vahan271@gmail.com> 1556171584 +0400	commit: Code formatted
+0e29f071fe9170be57bf3f2d09e984122a0ada14 63586b2814afcaf4a9e9d5a20fb7b954e970208e Vahan <vahan271@gmail.com> 1556171620 +0400	commit: Code formatted
+63586b2814afcaf4a9e9d5a20fb7b954e970208e 6c7a3d5dd287e327caca9431bcdabecdd6a4c6c0 Vahan <vahan271@gmail.com> 1556172868 +0400	commit: Code formatted
+6c7a3d5dd287e327caca9431bcdabecdd6a4c6c0 7e2cbd95cbfc1f7c67b0c4b4ae84765a5e0eb326 Vahan <vahan271@gmail.com> 1556622288 +0400	commit: Code formatted
+7e2cbd95cbfc1f7c67b0c4b4ae84765a5e0eb326 74c78ee4ec87437e82a768218c6d0da7c45a2b67 Vahan <vahan271@gmail.com> 1556622374 +0400	commit: Code formatted
+74c78ee4ec87437e82a768218c6d0da7c45a2b67 f89f82e2727d49240bc2f5bdcdf00a1727f01cf3 Vahan <vahan271@gmail.com> 1556993796 +0400	commit: Code formatted
+f89f82e2727d49240bc2f5bdcdf00a1727f01cf3 ca55264d1ac3b33919fe9c1f85de81a344a1df69 Vahan <vahan271@gmail.com> 1557089706 +0400	commit: Code formatted
+ca55264d1ac3b33919fe9c1f85de81a344a1df69 1e535e5948d5716e64ef25b41e5fd685c450ceab Vahan <vahan271@gmail.com> 1578838188 +0400	commit: changes
+1e535e5948d5716e64ef25b41e5fd685c450ceab c151d2eb7ab8399f2ec6cd49e3cc6dba9dc76a66 Vahan <vahan271@gmail.com> 1578838657 +0400	commit (amend): changes
+c151d2eb7ab8399f2ec6cd49e3cc6dba9dc76a66 98b0e713995b815c503a26c6a68422ccb9da220b Vahan <vahan271@gmail.com> 1578838727 +0400	pull: Merge made by the 'recursive' strategy.
+98b0e713995b815c503a26c6a68422ccb9da220b 1e535e5948d5716e64ef25b41e5fd685c450ceab Vahan <vahan271@gmail.com> 1578838829 +0400	reset: moving to origin/master
